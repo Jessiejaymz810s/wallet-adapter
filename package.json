@@ -64,5 +64,8 @@
         "@types/web": "npm:typescript@~4.7.4",
         "eslint": "8.22.0",
         "@ngraveio/bc-ur": "1.1.6"
+    },
+    "dependencies": {
+        "@solana/web3.js": "^1.90.1"
     }
 }
